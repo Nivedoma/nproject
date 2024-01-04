@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: cd282753b16123d4e94c1b9425d8c143
+  productGUID: 0116adf6d35c7b94bb03d7bff20a0348
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -749,10 +749,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: cd7f5f38-6237-450b-80ed-600ae2bf7520
+  cloudProjectId: 5bf14b46-fa48-4478-8064-e1993eb907dd
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: nproject
+  projectName: nproject 2024-01-04_16-48-39
   organizationId: nivedoma
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
