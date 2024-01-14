@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 0116adf6d35c7b94bb03d7bff20a0348
+  productGUID: 013303b6fba7656498dc76acb191a27c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: nproject
+  productName: edproject
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -673,14 +673,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: nproject
+  metroPackageName: edproject
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: nproject
+  metroApplicationDescription: edproject
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -749,10 +749,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5bf14b46-fa48-4478-8064-e1993eb907dd
+  cloudProjectId: 6ede975e-32cd-48ac-bed0-a6297023d878
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: nproject 2024-01-04_16-48-39
+  projectName: edproject
   organizationId: nivedoma
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
